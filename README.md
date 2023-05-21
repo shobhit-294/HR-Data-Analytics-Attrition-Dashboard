@@ -25,6 +25,21 @@ The HR Analytics Dashboard project utilizes Power BI as the primary data visuali
 
 The HR Analytics Dashboard is designed to be user-friendly and accessible to HR professionals, managers, and executives. It serves as a valuable resource for strategic decision-making, enabling stakeholders to understand the workforce, identify trends, and align HR initiatives with organizational goals.
 
+## Insights
+Most of the sales happened in March for the year 2022.
+
+Adult aged women are responsible for majority of the sales.
+
+A huge number of orders were delivered properly.
+
+Top 5 sales come from the state of Maharashtra, Karnatka, Uttar Pradesh, Telangana amd Tamil Nadu.
+
+Online channels which are helping in the maximum number of sales are Amazon, Flipkart and Myntra.
+
+## Next Steps and Final Conclusion to improve Vrinda store sales:
+
+Target women customers of age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra
+
 ## Conclusion:
 
 The HR Analytics Dashboard project exemplifies the power of data analytics in revolutionizing HR practices. By combining Power BI's robust visualization capabilities with MySQL's data management capabilities, this project empowers organizations to leverage HR data to optimize workforce planning, performance management, talent acquisition, and training initiatives. With actionable insights derived from the dashboard, HR professionals can drive organizational growth, enhance employee engagement, and improve overall HR effectiveness. This project serves as a testament to the transformative potential of HR analytics in shaping the future of human resources management.
